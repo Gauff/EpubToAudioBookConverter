@@ -1,0 +1,6 @@
+setuptools~=68.2.0
+EbookLib~=0.18
+beautifulsoup4~=4.12.3
+requests~=2.31.0
+customtkinter~=5.2.2
+CTkListbox~=1.3
