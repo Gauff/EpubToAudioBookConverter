@@ -1,3 +1,5 @@
+![Screenshot](https://github.com/Gauff/EpubToAudioBookConverter/blob/master/logo.png)
+
 **EPUB (Electronic Publication) to MP3 (Audio Book) Converter** 
 ============================================================
 
