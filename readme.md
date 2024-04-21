@@ -6,6 +6,9 @@
 
 This is a Python program that converts EPUB files to MP3 audiobooks. It allows users to select the EPUB file, choose the voice and playback settings, and generate an MP3 file for each chapter or a single MP3 file containing all chapters.
 
+![Screenshot](https://github.com/Gauff/EpubToAudioBookConverter/blob/master/screenshot.png)
+
+
 **Features**
 ---------
 
